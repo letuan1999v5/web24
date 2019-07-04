@@ -1,0 +1,61 @@
+
+.column1 {
+    display: inline-block;
+    width: 15%;
+    
+    padding-left: 100px;
+}
+.column1 .inform a:link{
+    color: black;
+    text-decoration: none;
+}
+.column1 .inform a:hover{
+    color:purple;
+    border-bottom: 4px;
+}
+.column1 #avt {
+    padding-bottom: 0px;
+    text-align: left;
+}
+.column1 .inform {
+    padding-top: 30px;
+}
+.column1 .avatar {
+    width: 100px;
+    height: 100px;
+}
+.column2 {
+    padding-top: 100px;
+    padding-bottom: 50px;
+    padding-left: 70px;
+    padding-right: 70px;
+    display: inline-block;
+    width: 65%;
+    border-width: thin;
+    border-style: groove;
+    border-collapse: separate;
+    border-color: rgb(237, 242, 242);
+}
+.column2 .bot-column2 .sub-column {
+     display: inline-block;
+     width: 32%;
+}
+
+.column2 .bot-column2 .sub-column #img1 {
+    color: blueviolet;
+}
+
+.column2 .sub-column .image{
+    background-color: blueviolet;
+}
+.column2 #sv {
+    padding-bottom: 80px;
+}
+.column2 .sub-column p{
+    font-size: 16   px;
+    color: grey;
+}
+.column2 .sub-column .ab{
+    padding-bottom: 20px;
+    padding-right: 10px;
+}
