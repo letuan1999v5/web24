@@ -1,0 +1,25 @@
+.quyet-de {
+    display: inline;
+    padding-right:20px;
+    font-size:40px;
+    background-image: url('greyBackground.jpg');
+    background-size: 20px;
+
+}
+.hoi-nhanh {
+    color:  red;
+    padding-right:20px;
+    font-size: 40px;
+    background-image: url('greyBackground.jpg');
+    background-size: 20px;
+}
+.dap-gon {
+    color: green;
+    font-size:40px;
+    background-image: url('greyBackground.jpg');
+    background-size: 20px;
+}
+.text {
+    margin-left:300px;
+    margin-top:50px;
+}
