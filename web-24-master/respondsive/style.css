@@ -1,0 +1,28 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 70vw;
+    margin: 0 auto;
+    display: flex;
+}
+
+.main-content {
+    width: 75%;
+}
+
+.side-bar {
+    width: 25%;
+    padding:40px;
+}
+
+@media screen and (max-width: 500) {
+    .side-bar{
+        display: none;
+    }
+}
+
+

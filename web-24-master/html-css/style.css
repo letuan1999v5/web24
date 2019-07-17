@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.banner {
+  height: 30vh;
+  background-image: url('./google.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 8vh;
+  padding-left: 80px;
+}
+
+.banner h1, .banner h4 {
+  color: #ffffff;
+}
+
+.main-content .image-container .column {
+  display: inline-block;
+  width: 32%;
+}

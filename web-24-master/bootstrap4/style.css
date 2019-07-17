@@ -1,0 +1,23 @@
+.container .row #header1 {
+    text-align: center;
+    color: rgb(146, 148, 150);
+}
+
+.container .row #hd {
+  margin-top:10px;
+  text-align: center;
+}
+
+.container .row .col-xl-4  .card {
+  margin-top: 30px;
+  margin-left: 30px;
+}
+
+.container .row .card .card-body #text1 {
+  color: rgb(146, 148, 150);
+  
+}
+
+.container .row .col-xl-4 .card-body {
+  background-image: url('milk-white.jpg');
+}
