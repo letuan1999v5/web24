@@ -10,8 +10,8 @@ app.get('/', (req, res) => {
     res.sendFile(path.resolve(__dirname, './public/html/index.html'));
 });
 
-app.get('/game/add-round', (req,res) => {
-    res.sendFile(path.resolve(__dirname,'./public/html/player-screen.html'))
+app.get('/game', (req,res) => {
+    res.sendFile(path.resolve(__dirname, './public/html/play-screen.html'))
 })
 
 app.listen(8080);
